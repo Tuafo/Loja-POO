@@ -9,7 +9,7 @@ public class App {
         Calendar data = Calendar.getInstance(); // SOCORRO!!
 
         JMenuBar menuBar = new JMenuBar();
-        JButton b1 = new JButton("Botão");
+        JButton b8787 = new JButton("Botão");
 
         
 
